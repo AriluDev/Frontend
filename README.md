@@ -11,3 +11,5 @@ Para apoyo al Código se especifican los siguientes requisitos:
 
 3) Envio 
   - Enviar el push y posteriormente , se pasa a revisión de código y si todo esta bien : 'Aceptado'.
+# CÓDIGO
+Solo se acepta JavaScript.
