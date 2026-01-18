@@ -1,1 +1,2 @@
-# Frontend
+# CÓDIGO
+Solo se acepta JavaScript.
